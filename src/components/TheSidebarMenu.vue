@@ -5,7 +5,7 @@
   >
   <div class="flex flex-row items-center">
   <div class="relative ">
-     <h1 class="relative pl-16 mb-12 z-50 text-lg font-bold ">Skolaxy</h1>
+     <h1 class="relative pl-16 mb-12 z-50 text-lg font-bold ">Sion</h1>
       <svg
               class="absolute h-8  z-40  -top-1 left-14 "
               viewBox="0 0 79 79"
